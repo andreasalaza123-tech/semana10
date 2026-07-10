@@ -8,4 +8,4 @@ Mensaje:
 “Nuevo reporte recibido. Revisar el sistema para seguimiento.”
 
 Información que NO debe enviarse:
-Nombres completos, documentos, direcciones, teléfonos, correos, contraseñas o tokens.
+Nombres completos, documentos, direcciones, teléfonos, correos, contraseñas o tokens. 
